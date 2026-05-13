@@ -1,6 +1,7 @@
-# Obsidian Wiki Template (Claude-driven)
+# Obsidian Wiki Template (Claude/Codex driven)
 
-A template for a personal research wiki in [Obsidian](https://obsidian.md), maintained by Claude Code. You drop raw sources (articles, papers, transcripts) into `raw/`; Claude reads them and builds a structured wiki of concepts, entities, sources, and synthesis pages in `wiki/`.
+A template for a personal research wiki in [Obsidian](https://obsidian.md), maintained by Claude Code or Codex. You drop raw sources (articles, papers, transcripts) into `raw/`. Claude reads them and builds a structured wiki of concepts, entities, sources, and synthesis pages in `wiki/`. 
+The idea was published by Andrej Karpathy at https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 
 ## How it works
 
